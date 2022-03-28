@@ -5,4 +5,4 @@
   --image-project "debian-cloud" \
   --image "debian-9-stretch-v20170918" \
   --subnet "default"
-- 
+- gcloud compute instances delete my-vm
