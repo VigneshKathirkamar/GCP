@@ -1,3 +1,4 @@
+- gcloud config list
 - gcloud compute zones list
 - gcloud config set compute/zone us-central1-c
 - gcloud compute instances create "my-vm" \
